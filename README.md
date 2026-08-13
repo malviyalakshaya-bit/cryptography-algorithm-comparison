@@ -22,6 +22,12 @@ This project explores and compares three widely used cryptographic algorithms: A
 
 AES, DES, and RSA were implemented and explored using CrypTool 2 to understand their encryption processes and compare their characteristics.
 
+## Experiment Results
+
+The following image shows the completed AES, DES, RSA, and file-encryption workflows in CrypTool 2.
+
+![CrypTool 2 Experiment Results](crypTool2_experiment_results.png)
+
 ### File Encryption
 
 CrypTool 2 was also used to explore file encryption and understand how cryptographic techniques can be applied to protect data.

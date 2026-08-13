@@ -1,4 +1,3 @@
-arduino/crypto_algorithm_indicator.ino
 void blinkPattern(int pattern, int totalDuration) {
   long start = millis();
   
